@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@200;300;400;500;600;700&display=swap');
+
+@import "minima";
+
+
+body {
+  font-family: 'Sarabun', sans-serif !important;
+}
+
+main {
+  margin-top: 90px;
+  flex: 1;
+}
+
+.bg-navbar {
+  background-color: #fdfdfd;
+}
+
+.i-footer {
+  font-size: 1.3em;
+}
