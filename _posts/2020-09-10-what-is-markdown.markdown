@@ -67,7 +67,7 @@ The quick brown fox jumped over the lazy dog's back.
 ---
 <br/>
 
-**การเน้นข้อความ (Bold)**  ใช้เครื่องหมาย * หรือ _ คร่อมข้อความ
+**การเน้นข้อความ**  ใช้เครื่องหมาย _ หรือ * ครอบข้อความที่ต้องการเน้น
 
 {% highlight markdown %}
 Some of these words *are emphasized*.
