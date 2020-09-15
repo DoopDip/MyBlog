@@ -5,6 +5,7 @@ description: "เลาเดฟบ้าน ๆ เลาเดฟเลี้�
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
+url: 'https://doopdip.me'
 google_analytics: 'UA-177336528-1'
 disqus: 'doopdip'
 include: ["_pages"]
