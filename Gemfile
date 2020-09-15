@@ -6,10 +6,9 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-# gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.1' if Gem.win_platform?
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
@@ -19,6 +18,4 @@ group :jekyll_plugins do
   gem 'kramdown'
   gem 'rouge'
 end
-
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
