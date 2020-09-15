@@ -4,7 +4,7 @@ title:  ".md ?? .markdown ?? คืออะไรกันนะ"
 categories: [tutorial]
 tags: [markdown, md]
 image: assets/images/posts/what-is-markdown/markdown.svg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Markdown ? "
 featured: true
 hidden: true
 ---

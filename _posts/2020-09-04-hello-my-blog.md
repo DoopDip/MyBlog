@@ -2,7 +2,7 @@
 layout: post
 title:  "สวัสดีบล็อกของโผมมม"
 image: assets/images/logo.png
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Say Hi ~"
 featured: false
 hidden: false
 ---
