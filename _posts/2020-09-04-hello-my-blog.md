@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "สวัสดีบล็อกของโผมมม"
-date:   2020-09-04 12:00:00 +0700
-categories: general
+image: assets/images/logo.png
+description: "My review of Inception movie. Acting, plot and something else in this short description."
+featured: false
+hidden: false
 ---
 
 และแล้วก็ได้ฤกษ์งามยามดีซักทีที่จะเริ่มต้นการเขียนบล็อกซักที จากที่พูดกับตัวเองว่าวันนี้จะเขียน จะเขียน จะเขียน วันแล้ววันเล่า แล้วมันก็ถึงวันนั้นซักที 555
@@ -10,4 +12,4 @@ categories: general
 
 สุดท้ายนี้ก่อนจบทบความน้อยๆ บทความแรกผมขอกล่าวคำว่า
 
-> สวัสดีครับ
+> สวัสดีครัช

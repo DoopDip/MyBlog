@@ -1,15 +1,14 @@
 ---
 layout: post
 title:  ".md ?? .markdown ?? คืออะไรกันนะ"
-date:   2020-09-10 21:18:00 +0700
-categories: general
+categories: [tutorial]
+tags: [markdown, md]
+image: assets/images/posts/what-is-markdown/markdown.svg
+description: "My review of Inception movie. Acting, plot and something else in this short description."
+featured: true
+hidden: true
 ---
-[markdown-docs]: https://daringfireball.net/projects/markdown
 
-![Markdown](/assets/posts/what_is_markdown/markdown-mark.svg)
-<br/>
-<br/>
-<br/>
 มาถึงบทความแรกกันแล้วเย่ ก่อนที่จะเขียนบทความใน Blog ของเรา (Jekyll) ได้นั้นเราก็ต้องมาทำความรู้จักกับเจ้า [Markdown][markdown-docs] กันก่อน เพราะต้องใช้ความสามารถของ Markdown ในการเขียนบทความนั้นเอง
 เพื่อน ๆ ที่ใช้ Git กันคงต้องเคยเห็นเจ้าไฟล์ที่ชื่อ README.md ผ่านตากันบ้างมาแล้ว ถ้าสังเกตุดี ๆ นามสกุลของมันคือ .md น้้นแหละฮะทั่นผู้ชม มันก็คือเจ้า Markdown เจ้าภาพของเราในบทความนี้
 
@@ -136,10 +135,10 @@ This is an [example link](https://doopdip.me/).
 
 **แสดงรูปภาพ (Image)** คล้าย ๆ เหมือนการสร้างลิงค์คือใช้ [] ครอบชื่อรูป และใช้ () ครอบ path ของรูป ที่เพิ่มขึ้นมาก็คือต้องใส่ ! ไว้หน้าสุด
 {% highlight markdown %}
-![My cat](/assets/posts/what_is_markdown/cat.jpg)
+![My cat](/assets/images/posts/what-is-markdown/cat.jpg)
 {% endhighlight %}
 
-![My cat](/assets/posts/what_is_markdown/cat.jpg)
+![My cat](/assets/images/posts/what-is-markdown/cat.jpg)
 
 ---
 <br/>
@@ -165,3 +164,5 @@ instead of decimal-encoded entites like `&#8212;`.
 <br/>
 #### แหล่งอ้างอิง
 * [Daring fireball][markdown-docs]
+
+[markdown-docs]: https://daringfireball.net/projects/markdown
