@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "$X{} กับเงื่อนไข IN หรือ NOTIN ใน JasperReports"
+title: "$X กับเงื่อนไข IN หรือ NOTIN ใน JasperReports"
 categories: [Tutorial, JasperReports]
 tags: [Report, Java, SQL]
 image: assets/images/posts/special-syntax-x-jasperreports/cover.jpg
