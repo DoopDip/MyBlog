@@ -4,7 +4,7 @@ title: "$X{} กับเงื่อนไข IN หรือ NOTIN ใน Jasp
 categories: [Tutorial, JasperReports]
 tags: [Report, Java, SQL]
 image: assets/images/posts/special-syntax-x-jasperreports/cover.jpg
-description: "Markdown ? "
+description: "วิธีใช้ $X ใน JasperReports"
 featured: true
 hidden: true
 ---
